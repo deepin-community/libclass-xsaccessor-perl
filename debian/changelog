@@ -1,3 +1,9 @@
+libclass-xsaccessor-perl (1.19-deepin4) unstable; urgency=medium
+
+  * Existing version 1.19-deepin1 > 1.19-4.
+
+ -- LiChengGang <lichenggang@uniontech.com>  Fri, 05 Jan 2024 11:42:48 +0800
+
 libclass-xsaccessor-perl (1.19-4) unstable; urgency=medium
 
   [ Xavier Guimard ]
