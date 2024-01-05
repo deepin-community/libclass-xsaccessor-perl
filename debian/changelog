@@ -1,3 +1,27 @@
+libclass-xsaccessor-perl (1.19-4) unstable; urgency=medium
+
+  [ Xavier Guimard ]
+  * Email change: Xavier Guimard -> yadd@debian.org
+
+  [ gregor herrmann ]
+  * debian/control: update Build-Depends for cross builds.
+  * debian/watch: use uscan version 4.
+
+  [ Debian Janitor ]
+  * Bump debhelper from old 10 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Remove obsolete fields Contact, Name from debian/upstream/metadata
+    (already present in machine-readable debian/copyright).
+  * Update standards version to 4.2.1, no changes needed.
+  * Bump debhelper from old 12 to 13.
+
+  [ gregor herrmann ]
+  * Update years of packaging copyright.
+  * Declare compliance with Debian Policy 4.6.1.
+  * Set Rules-Requires-Root: no.
+
+ -- gregor herrmann <gregoa@debian.org>  Sat, 30 Jul 2022 17:10:13 +0200
+
 libclass-xsaccessor-perl (1.19-3) unstable; urgency=medium
 
   [ Salvatore Bonaccorso ]
